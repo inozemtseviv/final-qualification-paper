@@ -36,8 +36,6 @@
 
 Данные в одном архиве с файлами вида `<organization_id>_<date>_<filetype>.csv`. Архив содержит обучающий датасет, тестовый датасет и датасет с предсказаниями ALS. Эти данные позволят воспроизвести все эксперименты.
 
-https://drive.usercontent.google.com/download?id=11w2poYsHRwYUCZjYVh7bZpnRCad_SDJT&export=download
-
 ## Эксперименты
 
 1. [Подбор моделей для генерации кандидатов](notebooks/candidate_generation.ipynb)
