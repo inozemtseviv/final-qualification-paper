@@ -41,5 +41,5 @@ https://drive.usercontent.google.com/download?id=11w2poYsHRwYUCZjYVh7bZpnRCad_SD
 ## Эксперименты
 
 1. [Подбор моделей для генерации кандидатов](notebooks/candidate_generation.ipynb)
-2. Подбор моделей для ранжирования кандидатов (в разработке)
+2. [Подбор моделей для ранжирования кандидатов (в разработке)](notebooks/ranking.ipynb)
 3. Алгоритм применения бизнес-правил и повторного ранжирования (в разработке)
